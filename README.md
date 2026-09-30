@@ -1,6 +1,6 @@
 # Truth Bias in Human Reinforcement Learning
 
-This repository contains the behavioural data, fitted model parameters, simulation code, mixed-effects analyses, and plotting functions used to reproduce the main results of the paper **"Truth Bias in Human Reinforcement Learning"** (https://osf.io/preprints/psyarxiv/76ewk_v1).
+This repository contains the behavioural data, fitted model parameters, simulation code, mixed-effects analyses, and plotting functions used to reproduce the main results of the paper [**"Truth Bias in Human Reinforcement Learning"**](https://osf.io/preprints/psyarxiv/76ewk_v1).
 
 The study tests whether outcome information labelled as truthful has a greater influence on reinforcement learning than equally informative information labelled as untruthful. Across two studies, the analyses examine truth bias in belief updating, its dependence on source certainty and environmental truth base rates, its relationship to explicit beliefs, and its effects on choice speed and accuracy.
 
