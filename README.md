@@ -22,10 +22,9 @@ A recommended organization is:
 ├── README.md
 ├── data/
 │   ├── README.md
-│   ├── data_s1.mat
-│   ├── data_s2.mat
-│   ├── <CA parameter file(s)>.mat
-│   └── <CA-DDM parameter file>.mat
+│   ├── data.mat
+│   ├── parameters_CAmodel.mat
+│   └── parameters_CADDMmodel.mat
 │
 ├── models/
 │   ├── my_CAmodel_fitter.m
